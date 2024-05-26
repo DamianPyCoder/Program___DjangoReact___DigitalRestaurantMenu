@@ -29,8 +29,8 @@
 ## 5. Typography, Colors, Icons and Other Elements.  
 
 ### 5.1 Icons.
-<img src="https://github.com/DamianPyCoder/Program___ReactJS_ElectronJS___SpotifyClon/blob/main/reproductor_picts/logo-name-green.png" width="50">  <img src="https://github.com/DamianPyCoder/Program___ReactJS_ElectronJS___SpotifyClon/blob/main/reproductor_picts/logo-white.png" width="50">  <img src="https://github.com/DamianPyCoder/Program___ReactJS_ElectronJS___SpotifyClon/blob/main/reproductor_picts/logo-green.png" width="50">  
-Source of the icon: [Uniconlabs](https://www.flaticon.es/icono-gratis/nota-musical_3293813?related_id=3293822&origin=search)  
+<img src="https://github.com/DamianPyCoder/Program___DjangoReact___DigitalRestaurantMenu/blob/main/picts/menu.png" width="50">  <img src="https://github.com/DamianPyCoder/Program___DjangoReact___DigitalRestaurantMenu/blob/main/picts/menu1.png" width="50">  <img src="https://github.com/DamianPyCoder/Program___DjangoReact___DigitalRestaurantMenu/blob/main/picts/menu2.png" width="50">  <img src="https://github.com/DamianPyCoder/Program___DjangoReact___DigitalRestaurantMenu/blob/main/picts/menu2B.png" width="50">  <img src="https://github.com/DamianPyCoder/Program___DjangoReact___DigitalRestaurantMenu/blob/main/picts/menuB.png" width="50">  
+Source of the icon: [Freepik](https://www.flaticon.es/icono-gratis/menu_1046747)  
 
 ### 5.2 Color palette.
 

@@ -1,11 +1,6 @@
 <a name="readme-top"></a>
 
-# DAMIALICIOUS 
-
-
-
-
-<p align="right"><a href="https://www.youtube.com/watch?v=CAevJbKXzTI">Pulsa en la imagen para reproducir la demostración en Youtube</a></p>
+![](https://github.com/DamianPyCoder/DamianPyCoder/blob/main/canvas/damialicious.png)
 
 
 

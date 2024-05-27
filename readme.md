@@ -54,7 +54,9 @@ In the backend, I have created comprehensive documentation for all of our API se
 
 ## 3. Staff Panel.  
 
-The following image illustrates the worker panel on the left and the customer access on the right. Customers will access the app either through a QR code or by manually entering their table number.
+The following image illustrates the worker panel on the left and the customer access on the right. Customers will access the app either through a QR code or by manually entering their table number.  
+
+In the order section, tables will be displayed. Occupied tables will be highlighted in orange, tables with pending orders will be blue with the order number, unoccupied tables will be black, and tables with diners who have already requested the bill will be green.  
 
 
 ![](https://github.com/DamianPyCoder/Program___DjangoReact___DigitalRestaurantMenu/blob/main/picts/screenshot_1.png)  

@@ -12,7 +12,17 @@
 
 ## 2. Built with.
 
-https://github.com/DamianPyCoder/RandomAssets__icons__V2/blob/main/React-Dark.svg
+
+
+<img src="https://github.com/DamianPyCoder/RandomAssets__icons__V2/blob/main/VSCode-Dark.svg" width="50"> <img src="https://github.com/DamianPyCoder/RandomAssets__icons__V2/blob/main/React-Dark.svg" width="50">
+<img src="https://github.com/DamianPyCoder/RandomAssets__icons__V2/blob/main/Django.svg" width="50">
+<img src="https://github.com/DamianPyCoder/RandomAssets__icons__V2/blob/main/Python-Dark.svg" width="50">
+<img src="https://github.com/DamianPyCoder/RandomAssets__icons__V2/blob/main/Yarn-Dark.svg" width="50">
+<img src="https://github.com/DamianPyCoder/RandomAssets__icons__V2/blob/main/NodeJS-Dark.svg" width="50">
+<img src="https://github.com/DamianPyCoder/RandomAssets__icons__V2/blob/main/Sass.svg" width="50">
+
+
+
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

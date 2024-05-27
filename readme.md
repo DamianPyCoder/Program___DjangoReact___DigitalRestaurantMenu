@@ -117,7 +117,7 @@ Once all products are marked as delivered, an option to request the bill will ap
     <img width="300" height="610" src="https://github.com/DamianPyCoder/Program___DjangoReact___DigitalRestaurantMenu/blob/main/picts/screenshot_18.png" title="blog1" alt="blog1">
   </a>
   <a href="https://github.com/DamianPyCoder/Program___DjangoReact___DigitalRestaurantMenu/blob/main/picts/screenshot_19.png">
-    <img width="300" height="650" src="https://github.com/DamianPyCoder/Program___DjangoReact___DigitalRestaurantMenu/blob/main/picts/screenshot_19.png" title="blog2" alt="blog2">
+    <img width="300" height="600" src="https://github.com/DamianPyCoder/Program___DjangoReact___DigitalRestaurantMenu/blob/main/picts/screenshot_19.png" title="blog2" alt="blog2">
   </a>
 </p>
 

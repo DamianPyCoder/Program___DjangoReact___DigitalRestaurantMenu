@@ -28,8 +28,31 @@
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
+## 3. Typography, Colors, Icons and Other Elements.  
 
-## 3. Development Roadmap.  
+### 3.1 Icons.
+<img src="https://github.com/DamianPyCoder/Program___DjangoReact___DigitalRestaurantMenu/blob/main/picts/menu.png" width="50">  <img src="https://github.com/DamianPyCoder/Program___DjangoReact___DigitalRestaurantMenu/blob/main/picts/menu1.png" width="50">  <img src="https://github.com/DamianPyCoder/Program___DjangoReact___DigitalRestaurantMenu/blob/main/picts/menu2.png" width="50">  <img src="https://github.com/DamianPyCoder/Program___DjangoReact___DigitalRestaurantMenu/blob/main/picts/menu2B.png" width="50">  <img src="https://github.com/DamianPyCoder/Program___DjangoReact___DigitalRestaurantMenu/blob/main/picts/menuB.png" width="50">  
+Source of the icon: [Freepik](https://www.flaticon.es/icono-gratis/menu_1046747)  
+
+
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+
+
+## 4. Images and Videos.
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+
+
+## 5. Development Roadmap.  
 
 Aquí tienes el texto modificado con el formato que has solicitado:
 
@@ -210,26 +233,6 @@ Aquí tienes el texto modificado con el formato que has solicitado:
 
 - [ ] DEPLOY
 
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## 4. Typography, Colors, Icons and Other Elements.  
-
-### 4.1 Icons.
-<img src="https://github.com/DamianPyCoder/Program___DjangoReact___DigitalRestaurantMenu/blob/main/picts/menu.png" width="50">  <img src="https://github.com/DamianPyCoder/Program___DjangoReact___DigitalRestaurantMenu/blob/main/picts/menu1.png" width="50">  <img src="https://github.com/DamianPyCoder/Program___DjangoReact___DigitalRestaurantMenu/blob/main/picts/menu2.png" width="50">  <img src="https://github.com/DamianPyCoder/Program___DjangoReact___DigitalRestaurantMenu/blob/main/picts/menu2B.png" width="50">  <img src="https://github.com/DamianPyCoder/Program___DjangoReact___DigitalRestaurantMenu/blob/main/picts/menuB.png" width="50">  
-Source of the icon: [Freepik](https://www.flaticon.es/icono-gratis/menu_1046747)  
-
-
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-
-
-## 5. Images and Videos.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

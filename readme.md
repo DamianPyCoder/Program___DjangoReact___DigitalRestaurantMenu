@@ -95,7 +95,7 @@ In the user system, only users with administrative roles can register employees 
   
 ![](https://github.com/DamianPyCoder/Program___DjangoReact___DigitalRestaurantMenu/blob/main/picts/screenshot_16.png)
 
-![](https://github.com/DamianPyCoder/Program___DjangoReact___DigitalRestaurantMenu/blob/main/picts/screenshot_17.png)
+
 
 
 
@@ -107,11 +107,25 @@ In the user system, only users with administrative roles can register employees 
 
 ## 4. Customer Panel. 
   
-Once all products are marked as delivered, an option to request the bill will appear at the top.  
-  
-![](https://github.com/DamianPyCoder/Program___DjangoReact___DigitalRestaurantMenu/blob/main/picts/screenshot_18.png)
+Once all products are marked as delivered, an option to request the bill will appear at the top.   
 
-![](https://github.com/DamianPyCoder/Program___DjangoReact___DigitalRestaurantMenu/blob/main/picts/screenshot_19.png)
+![](https://github.com/DamianPyCoder/Program___DjangoReact___DigitalRestaurantMenu/blob/main/picts/screenshot_17.png)
+
+
+<p align="center">
+  <a href="https://github.com/DamianPyCoder/Program___DjangoReact___DigitalRestaurantMenu/blob/main/picts/screenshot_18.png">
+    <img width="200" height="410" src="https://github.com/DamianPyCoder/Program___DjangoReact___DigitalRestaurantMenu/blob/main/picts/screenshot_18.png" title="blog1" alt="blog1">
+  </a>
+  <a href="https://github.com/DamianPyCoder/Program___DjangoReact___DigitalRestaurantMenu/blob/main/picts/screenshot_19.png">
+    <img width="200" height="450" src="https://github.com/DamianPyCoder/Program___DjangoReact___DigitalRestaurantMenu/blob/main/picts/screenshot_19.png" title="blog2" alt="blog2">
+  </a>
+</p>
+
+
+  
+
+
+
 
 ![](https://github.com/DamianPyCoder/Program___DjangoReact___DigitalRestaurantMenu/blob/main/picts/screenshot_20.png)
 

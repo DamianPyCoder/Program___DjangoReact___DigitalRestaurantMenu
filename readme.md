@@ -106,8 +106,6 @@ In the user system, only users with administrative roles can register employees 
 
 
 ## 4. Customer Panel. 
-  
-Once all products are marked as delivered, an option to request the bill will appear at the top.   
 
 ![](https://github.com/DamianPyCoder/Program___DjangoReact___DigitalRestaurantMenu/blob/main/picts/screenshot_17.png)
 
@@ -138,16 +136,8 @@ Once all products are marked as delivered, an option to request the bill will ap
     <img width="300" height="610" src="https://github.com/DamianPyCoder/Program___DjangoReact___DigitalRestaurantMenu/blob/main/picts/screenshot_23.png" title="blog2" alt="blog2">
   </a>
 </p>
-
-
-
-
-
-
-
-
-
-
+  
+Once all products are marked as delivered, an option to request the bill will appear at the top.   
 
 ![](https://github.com/DamianPyCoder/Program___DjangoReact___DigitalRestaurantMenu/blob/main/picts/screenshot_24.png)
 
@@ -158,9 +148,6 @@ Once all products are marked as delivered, an option to request the bill will ap
 ![](https://github.com/DamianPyCoder/Program___DjangoReact___DigitalRestaurantMenu/blob/main/picts/screenshot_27.png)
 
 ![](https://github.com/DamianPyCoder/Program___DjangoReact___DigitalRestaurantMenu/blob/main/picts/screenshot_28.png)
-
-
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

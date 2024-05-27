@@ -82,6 +82,8 @@ In the tables section of the menu, new tables can be created, and waitstaff can 
 Once a bill is settled and paid, it will be added to the order history.  
 
 ![](https://github.com/DamianPyCoder/Program___DjangoReact___DigitalRestaurantMenu/blob/main/picts/screenshot_12.png)
+  
+Under categories and products, users can create, edit, delete, or deactivate products and their respective categories.  
 
 ![](https://github.com/DamianPyCoder/Program___DjangoReact___DigitalRestaurantMenu/blob/main/picts/screenshot_13.png)
 
@@ -89,6 +91,8 @@ Once a bill is settled and paid, it will be added to the order history.
 
 ![](https://github.com/DamianPyCoder/Program___DjangoReact___DigitalRestaurantMenu/blob/main/picts/screenshot_15.png)
 
+In the user system, only users with administrative roles can register employees and access information.  
+  
 ![](https://github.com/DamianPyCoder/Program___DjangoReact___DigitalRestaurantMenu/blob/main/picts/screenshot_16.png)
 
 ![](https://github.com/DamianPyCoder/Program___DjangoReact___DigitalRestaurantMenu/blob/main/picts/screenshot_17.png)
@@ -102,7 +106,9 @@ Once a bill is settled and paid, it will be added to the order history.
 
 
 ## 4. Customer Panel. 
-
+  
+Once all products are marked as delivered, an option to request the bill will appear at the top.  
+  
 ![](https://github.com/DamianPyCoder/Program___DjangoReact___DigitalRestaurantMenu/blob/main/picts/screenshot_18.png)
 
 ![](https://github.com/DamianPyCoder/Program___DjangoReact___DigitalRestaurantMenu/blob/main/picts/screenshot_19.png)

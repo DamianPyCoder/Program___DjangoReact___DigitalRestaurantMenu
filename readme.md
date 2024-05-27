@@ -39,14 +39,14 @@ Source of the icon: [Freepik](https://www.flaticon.es/icono-gratis/menu_1046747)
 
 
 
-## 3. How the Application Works: Staff Panel.
+## 3. Staff Panel.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
-## 4. How the Application Works: Customer Panel. 
+## 4. Customer Panel. 
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

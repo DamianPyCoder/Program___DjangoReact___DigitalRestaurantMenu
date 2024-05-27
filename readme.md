@@ -70,7 +70,7 @@ Source of the icon: [Freepik](https://www.flaticon.es/icono-gratis/menu_1046747)
      - [x] 11. Creating the routing system with React Router v6
      - [x] 12. Error404 route
 
-- [x] USER AND AUTHENTICATION SYSTEM
+- [x] **USER AND AUTHENTICATION SYSTEM**
      - [x] 13. Creating superuser for Django admin panel
      - [x] 14. Modifying the user model
      - [x] 15. Creating the user CRUD
@@ -88,14 +88,14 @@ Source of the icon: [Freepik](https://www.flaticon.es/icono-gratis/menu_1046747)
      - [x] 27. Retrieving session on page reload
      - [x] 28. Logout in the context
 
-- [x] ADMIN PANEL
+- [x] **ADMIN PANEL**
      - [x] 29. TopMenu structure
      - [x] 30. Adding logic to the TopMenu
      - [x] 31. SideMenu structure
      - [x] 32. Logic and menus for the SideMenu
      - [x] 33. Restricting the user section
 
-- [x] USER MANAGEMENT
+- [x] **USER MANAGEMENT**
      - [x] 34. Getting all users
      - [x] 35. Header Page
      - [x] 36. Users table
@@ -110,7 +110,7 @@ Source of the icon: [Freepik](https://www.flaticon.es/icono-gratis/menu_1046747)
      - [x] 45. Confirmation to delete user
      - [x] 46. Logic to delete a user
 
-- [x] CATEGORY SYSTEM
+- [x] **CATEGORY SYSTEM**
      - [x] 47. Creating the app and the model
      - [x] 48. Creating the ModelViewSet for categories
      - [x] 49. Categories page
@@ -122,7 +122,7 @@ Source of the icon: [Freepik](https://www.flaticon.es/icono-gratis/menu_1046747)
      - [x] 55. Creating the category
      - [x] 56. Logic to delete a category
 
-- [x] PRODUCT SYSTEM
+- [x] **PRODUCT SYSTEM**
      - [x] 57. Creating the app and the model
      - [x] 58. Creating the ModelViewSet for products
      - [x] 59. Filtering system
@@ -139,7 +139,7 @@ Source of the icon: [Freepik](https://www.flaticon.es/icono-gratis/menu_1046747)
      - [x] 70. Logic to update products
      - [x] 71. Logic to delete products
 
-- [x] TABLE SYSTEM
+- [x] **TABLE SYSTEM**
      - [x] 72. Creating the app and the model
      - [x] 73. Creating the ModelViewSet for tables
      - [x] 74. Tables page
@@ -150,7 +150,7 @@ Source of the icon: [Freepik](https://www.flaticon.es/icono-gratis/menu_1046747)
      - [x] 79. Updating tables
      - [x] 80. Deleting tables
 
-- [x] ORDER SYSTEM
+- [x] **ORDER SYSTEM**
      - [x] 81. Creating the app and the model
      - [x] 82. Creating the CRUD
      - [x] 83. Adding filters and ordering to the view
@@ -179,7 +179,7 @@ Source of the icon: [Freepik](https://www.flaticon.es/icono-gratis/menu_1046747)
      - [x] 106. Removing products from the list
      - [x] 107. Logic to add orders to a table
 
-- [x] TABLE DETAILS
+- [x] **TABLE DETAILS**
      - [x] 108. Creating the app and the model
      - [x] 109. Creating the CRUD
      - [x] 110. Adding filters and ordering
@@ -189,7 +189,7 @@ Source of the icon: [Freepik](https://www.flaticon.es/icono-gratis/menu_1046747)
      - [x] 114. Creating the table bill
      - [x] 115. Associating the bill with table orders
 
-- [x] PAYMENT SYSTEM 
+- [x] **PAYMENT SYSTEM**
      - [x] 116. Validating the request bill button
      - [x] 117. Component to view bill details
      - [x] 118. Adding real information
@@ -197,7 +197,7 @@ Source of the icon: [Freepik](https://www.flaticon.es/icono-gratis/menu_1046747)
      - [x] 120. Closing table orders
      - [x] 121. Showing which table requested the bill
 
-- [x] WEB APP FOR CUSTOMERS
+- [x] **WEB APP FOR CUSTOMERS**
      - [x] 122. Table selection page
      - [x] 123. Table selection form
      - [x] 124. Validating if the table exists
@@ -226,10 +226,10 @@ Source of the icon: [Freepik](https://www.flaticon.es/icono-gratis/menu_1046747)
      - [x] 147. Preparing an account on Heroku
      - [x] 148. Configuring and deploying the Django app
 
-- [x] QR GENERATOR
+- [x] **QR GENERATOR**
      - [x] 149. Deploying the frontend on Netlify
 
-- [ ] DEPLOY
+- [ ] **DEPLOY**
 
 
 

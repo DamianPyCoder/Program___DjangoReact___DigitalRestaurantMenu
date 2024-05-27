@@ -57,7 +57,9 @@ In the backend, I have created comprehensive documentation for all of our API se
 The following image illustrates the worker panel on the left and the customer access on the right. Customers will access the app either through a QR code or by manually entering their table number.
 
 
-![](https://github.com/DamianPyCoder/Program___DjangoReact___DigitalRestaurantMenu/blob/main/picts/screenshot_1.png)
+![](https://github.com/DamianPyCoder/Program___DjangoReact___DigitalRestaurantMenu/blob/main/picts/screenshot_1.png)  
+
+Within the worker panel, there will be a menu featuring order management, table management, payment history, categories, products, and user management.  
 
 ![](https://github.com/DamianPyCoder/Program___DjangoReact___DigitalRestaurantMenu/blob/main/picts/screenshot_5.png)
 

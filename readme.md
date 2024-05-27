@@ -75,6 +75,16 @@ Source of the icon: [Freepik](https://www.flaticon.es/icono-gratis/menu_1046747)
 
 ![](https://github.com/DamianPyCoder/Program___DjangoReact___DigitalRestaurantMenu/blob/main/picts/screenshot_17.png)
 
+
+
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+## 4. Customer Panel. 
+
 ![](https://github.com/DamianPyCoder/Program___DjangoReact___DigitalRestaurantMenu/blob/main/picts/screenshot_18.png)
 
 ![](https://github.com/DamianPyCoder/Program___DjangoReact___DigitalRestaurantMenu/blob/main/picts/screenshot_19.png)
@@ -98,13 +108,6 @@ Source of the icon: [Freepik](https://www.flaticon.es/icono-gratis/menu_1046747)
 ![](https://github.com/DamianPyCoder/Program___DjangoReact___DigitalRestaurantMenu/blob/main/picts/screenshot_28.png)
 
 
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-## 4. Customer Panel. 
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

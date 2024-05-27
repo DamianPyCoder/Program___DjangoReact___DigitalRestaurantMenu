@@ -78,6 +78,8 @@ In the tables section of the menu, new tables can be created, and waitstaff can 
 ![](https://github.com/DamianPyCoder/Program___DjangoReact___DigitalRestaurantMenu/blob/main/picts/screenshot_10.png)
 
 ![](https://github.com/DamianPyCoder/Program___DjangoReact___DigitalRestaurantMenu/blob/main/picts/screenshot_11.png)
+  
+Once a bill is settled and paid, it will be added to the order history.  
 
 ![](https://github.com/DamianPyCoder/Program___DjangoReact___DigitalRestaurantMenu/blob/main/picts/screenshot_12.png)
 

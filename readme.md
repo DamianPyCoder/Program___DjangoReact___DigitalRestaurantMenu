@@ -32,7 +32,9 @@ For the backend, I've used Python's Django, specifically Django Rest Framework. 
 <img src="https://github.com/DamianPyCoder/Program___DjangoReact___DigitalRestaurantMenu/blob/main/picts/menu.png" width="50">  <img src="https://github.com/DamianPyCoder/Program___DjangoReact___DigitalRestaurantMenu/blob/main/picts/menu1.png" width="50">  <img src="https://github.com/DamianPyCoder/Program___DjangoReact___DigitalRestaurantMenu/blob/main/picts/menu2.png" width="50">  <img src="https://github.com/DamianPyCoder/Program___DjangoReact___DigitalRestaurantMenu/blob/main/picts/menu2B.png" width="50">  <img src="https://github.com/DamianPyCoder/Program___DjangoReact___DigitalRestaurantMenu/blob/main/picts/menuB.png" width="50">  
 Source of the icon: [Freepik](https://www.flaticon.es/icono-gratis/menu_1046747)  
 
-### 2.2 API.
+### 2.2 API.  
+
+In the backend, I have created comprehensive documentation for all of our API services, along with an administrative panel. We have utilized Swagger, an open-source tool designed to describe, produce, consume, and visualize RESTful web services. Its primary use is for documenting and testing web APIs.  
   
 <p align="center">
   <a href="https://github.com/DamianPyCoder/Program___DjangoReact___DigitalRestaurantMenu/blob/main/picts/screenshot_2.png">

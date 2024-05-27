@@ -17,17 +17,17 @@
 
 
 
-## 4. Development Roadmap.
+## 3. Development Roadmap.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 5. Typography, Colors, Icons and Other Elements.  
+## 4. Typography, Colors, Icons and Other Elements.  
 
-### 5.1 Icons.
+### 4.1 Icons.
 <img src="https://github.com/DamianPyCoder/Program___DjangoReact___DigitalRestaurantMenu/blob/main/picts/menu.png" width="50">  <img src="https://github.com/DamianPyCoder/Program___DjangoReact___DigitalRestaurantMenu/blob/main/picts/menu1.png" width="50">  <img src="https://github.com/DamianPyCoder/Program___DjangoReact___DigitalRestaurantMenu/blob/main/picts/menu2.png" width="50">  <img src="https://github.com/DamianPyCoder/Program___DjangoReact___DigitalRestaurantMenu/blob/main/picts/menu2B.png" width="50">  <img src="https://github.com/DamianPyCoder/Program___DjangoReact___DigitalRestaurantMenu/blob/main/picts/menuB.png" width="50">  
 Source of the icon: [Freepik](https://www.flaticon.es/icono-gratis/menu_1046747)  
 
-### 5.2 Color palette.
+### 4.2 Color palette.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -36,14 +36,14 @@ Source of the icon: [Freepik](https://www.flaticon.es/icono-gratis/menu_1046747)
 
 
 
-## 6. Images and Videos.
+## 5. Images and Videos.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
-## 3. How to download the Django and React repository.
+## 6. How to download the Django and React repository.
 
 
 **Set up the Django environment (Backend):**  

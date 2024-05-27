@@ -33,10 +33,17 @@ For the backend, I've used Python's Django, specifically Django Rest Framework. 
 Source of the icon: [Freepik](https://www.flaticon.es/icono-gratis/menu_1046747)  
 
 ### 2.2 API.
-![](https://github.com/DamianPyCoder/Program___DjangoReact___DigitalRestaurantMenu/blob/main/picts/screenshot_2.png)
 
-![](https://github.com/DamianPyCoder/Program___DjangoReact___DigitalRestaurantMenu/blob/main/picts/screenshot_3.png)
-
+In the blog section, there are posts with and without dates.
+<p align="center">
+  <a href="https://github.com/DamianPyCoder/Program___DjangoReact___DigitalRestaurantMenu/blob/main/picts/screenshot_2.png">
+    <img width="400" height="210" src="https://github.com/DamianPyCoder/Program___DjangoReact___DigitalRestaurantMenu/blob/main/picts/screenshot_2.png" title="blog1" alt="blog1">
+  </a>
+  <a href="https://github.com/DamianPyCoder/Program___DjangoReact___DigitalRestaurantMenu/blob/main/picts/screenshot_3.png">
+    <img width="400" height="210" src="https://github.com/DamianPyCoder/Program___DjangoReact___DigitalRestaurantMenu/blob/main/picts/screenshot_3.png" title="blog2" alt="blog2">
+  </a>
+</p>
+  
 ![](https://github.com/DamianPyCoder/Program___DjangoReact___DigitalRestaurantMenu/blob/main/picts/screenshot_4.png)
 
 

@@ -200,9 +200,7 @@ Aquí tienes el texto modificado con el formato que has solicitado:
      - [x] 142. Rendering orders list
      - [x] 143. Button to request the bill
      - [x] 144. Preparing the bill creation
-     - [x
-
-] 145. Validating if the bill has been requested
+     - [x] 145. Validating if the bill has been requested
      - [x] 146. Generating the QR code for each table
      - [x] 147. Preparing an account on Heroku
      - [x] 148. Configuring and deploying the Django app

@@ -54,7 +54,7 @@ Source of the icon: [Freepik](https://www.flaticon.es/icono-gratis/menu_1046747)
 
 ## 5. Development Roadmap.  
 
-- [x] GENERATING BASE PROJECT
+- [x] **GENERATING BASE PROJECT**
      - [x] 01. Creating the Django project for the backend
      - [x] 02. Installing Django Rest Framework
      - [x] 03. Configuring API documentation
@@ -62,7 +62,7 @@ Source of the icon: [Freepik](https://www.flaticon.es/icono-gratis/menu_1046747)
      - [x] 05. Installing and configuring Semantic UI React
      - [x] 06. Configuring SASS
 
-- [x] ROUTING SYSTEM
+- [x] **ROUTING SYSTEM**
      - [x] 07. Installing React Router Dom v5
      - [x] 08. Installing React Router v6
      - [x] 09. Layout for the screens

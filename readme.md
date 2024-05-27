@@ -54,8 +54,6 @@ Source of the icon: [Freepik](https://www.flaticon.es/icono-gratis/menu_1046747)
 
 ## 5. Development Roadmap.  
 
-Aquí tienes el texto modificado con el formato que has solicitado:
-
 - [x] GENERATING BASE PROJECT
      - [x] 01. Creating the Django project for the backend
      - [x] 02. Installing Django Rest Framework
@@ -242,7 +240,7 @@ Aquí tienes el texto modificado con el formato que has solicitado:
 ## 6. How to download the Django and React repository.
 
 
-**Set up the Django environment (Backend):**  
+**6.1 Set up the Django environment (Backend):**  
 
 Make sure you have Python and pip installed on your computer.
 Navigate to the backend directory (probably a folder named `backend` or something similar) and create a virtual environment:  
@@ -270,7 +268,7 @@ Run the Django development server:
 
       python manage.py runserver
 
-**Set up the React environment (Frontend):**  
+**6.2 Set up the React environment (Frontend):**  
 
 Make sure you have Node.js and npm (or yarn) installed on your computer.
 Navigate to the frontend directory (probably a folder named `frontend` or something similar).
@@ -294,7 +292,7 @@ With yarn:
       yarn start
 
 
-**Configure CORS (Cross-Origin Resource Sharing):**  
+**6.3 Configure CORS (Cross-Origin Resource Sharing):**  
 
 If your frontend and backend are on different ports (e.g., backend on port 8000 and frontend on port 3000), you need to ensure the backend allows requests from the frontend.
 Install `django-cors-headers` in the backend virtual environment: 

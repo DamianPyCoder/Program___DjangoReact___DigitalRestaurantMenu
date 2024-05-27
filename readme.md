@@ -43,7 +43,7 @@ Source of the icon: [Freepik](https://www.flaticon.es/icono-gratis/menu_1046747)
 
 
 
-## 4. Images and Videos.
+## 4. How the Application Works.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

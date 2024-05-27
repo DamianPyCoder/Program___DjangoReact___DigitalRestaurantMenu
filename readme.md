@@ -4,13 +4,11 @@
 
 
 
-## 1. Description.
+## 1. Description and built with.  
 
+An application to manage restaurant orders, allowing customers to order without having to call a waiter, with all these orders automatically going to the restaurant's panel.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-## 2. Built with.
+For the backend, I've used Python's Django, specifically Django Rest Framework. And for the client-side, the front end, I used React JS with the addition of Hooks. Additionally, I've utilized other technologies such as Hooks, Formik, Yup, JWT...
 
 
 

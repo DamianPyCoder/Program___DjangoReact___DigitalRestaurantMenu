@@ -36,6 +36,8 @@ Source of the icon: [Freepik](https://www.flaticon.es/icono-gratis/menu_1046747)
 
 In the backend, I have created comprehensive documentation for all of our API services, along with an administrative panel. We have utilized Swagger, an open-source tool designed to describe, produce, consume, and visualize RESTful web services. Its primary use is for documenting and testing web APIs.  
   
+![](https://github.com/DamianPyCoder/Program___DjangoReact___DigitalRestaurantMenu/blob/main/picts/screenshot_4.png)
+
 <p align="center">
   <a href="https://github.com/DamianPyCoder/Program___DjangoReact___DigitalRestaurantMenu/blob/main/picts/screenshot_2.png">
     <img width="400" height="210" src="https://github.com/DamianPyCoder/Program___DjangoReact___DigitalRestaurantMenu/blob/main/picts/screenshot_2.png" title="blog1" alt="blog1">
@@ -44,8 +46,6 @@ In the backend, I have created comprehensive documentation for all of our API se
     <img width="400" height="210" src="https://github.com/DamianPyCoder/Program___DjangoReact___DigitalRestaurantMenu/blob/main/picts/screenshot_3.png" title="blog2" alt="blog2">
   </a>
 </p>
-  
-![](https://github.com/DamianPyCoder/Program___DjangoReact___DigitalRestaurantMenu/blob/main/picts/screenshot_4.png)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
